@@ -1,7 +1,7 @@
 const content = {
   jantung: {
     text: "Jantung adalah organ berotot yang berperan sebagai pompa utama dalam sistem peredaran darah. Organ ini memompa darah kaya oksigen dari paru-paru ke seluruh tubuh dan mengembalikan darah yang telah digunakan kembali ke paru-paru untuk mendapatkan oksigen. Jantung memiliki empat ruang utama: atrium kanan, atrium kiri, ventrikel kanan, dan ventrikel kiri. Detak jantung dikendalikan oleh impuls listrik alami yang mengatur ritme kontraksi otot jantung.",
-    img: "foto_organ/JANTUNG.JPG",
+    img: "foto_organ/JANTUNG.jpg",
   },
   paru: {
     text: "Paru-paru merupakan organ utama dalam sistem pernapasan yang bertanggung jawab atas pertukaran gas antara udara dan darah. Saat seseorang bernapas, oksigen dari udara masuk ke dalam paru-paru melalui trakea dan bronkus sebelum mencapai alveolus, tempat terjadinya difusi oksigen ke dalam darah. Sebaliknya, karbon dioksida yang merupakan produk limbah metabolisme akan dikeluarkan dari tubuh melalui proses ekshalasi.",
