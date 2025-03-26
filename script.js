@@ -1,115 +1,115 @@
 const content = {
   jantung: {
     text: "Jantung adalah organ berotot yang berperan sebagai pompa utama dalam sistem peredaran darah. Organ ini memompa darah kaya oksigen dari paru-paru ke seluruh tubuh dan mengembalikan darah yang telah digunakan kembali ke paru-paru untuk mendapatkan oksigen. Jantung memiliki empat ruang utama: atrium kanan, atrium kiri, ventrikel kanan, dan ventrikel kiri. Detak jantung dikendalikan oleh impuls listrik alami yang mengatur ritme kontraksi otot jantung.",
-    img: "foto_organ/jantung.jpg",
+    img: "foto_organ/JANTUNG.JPG",
   },
   paru: {
     text: "Paru-paru merupakan organ utama dalam sistem pernapasan yang bertanggung jawab atas pertukaran gas antara udara dan darah. Saat seseorang bernapas, oksigen dari udara masuk ke dalam paru-paru melalui trakea dan bronkus sebelum mencapai alveolus, tempat terjadinya difusi oksigen ke dalam darah. Sebaliknya, karbon dioksida yang merupakan produk limbah metabolisme akan dikeluarkan dari tubuh melalui proses ekshalasi.",
-    img: "foto_organ/paru paru.jpg",
+    img: "foto_organ/PARU PARU.jpg",
   },
   hati: {
     text: "Hati merupakan organ terbesar di dalam tubuh yang memiliki banyak fungsi vital. Selain menghasilkan empedu untuk membantu pencernaan lemak, hati juga berfungsi dalam detoksifikasi zat-zat berbahaya, menyimpan glikogen sebagai cadangan energi, serta mengatur metabolisme protein dan karbohidrat. Organ ini juga berperan dalam produksi beberapa protein penting dalam darah.",
-    img: "foto_organ/hatii9.jpg",
+    img: "foto_organ/HATII9.jpg",
   },
   ginjal: {
     text: "Ginjal adalah organ berbentuk kacang yang berfungsi dalam penyaringan darah untuk membuang limbah metabolisme, kelebihan cairan, dan zat-zat beracun dalam bentuk urin. Selain itu, ginjal juga berperan dalam mengatur keseimbangan elektrolit, tekanan darah, serta produksi hormon yang penting untuk pembentukan sel darah merah.",
-    img: "foto_organ/ginnjal.jpg",
+    img: "foto_organ/GINNJAL.jpg",
   },
   otak: {
     text: "Otak adalah pusat sistem saraf yang mengendalikan hampir semua aktivitas tubuh manusia, baik yang disadari maupun yang tidak. Otak terdiri dari beberapa bagian utama, termasuk otak besar (cerebrum) yang bertanggung jawab atas fungsi kognitif seperti berpikir, memori, dan emosi; otak kecil (cerebellum) yang mengontrol keseimbangan dan koordinasi gerakan; serta batang otak yang mengatur fungsi-fungsi otomatis seperti detak jantung dan pernapasan. Otak juga menerima dan mengolah informasi dari panca indera sebelum mengirimkan perintah ke seluruh tubuh.",
-    img: "foto_organ/otakk.jpg",
+    img: "foto_organ/OTAKK.jpg",
   },
   lambung: {
     text: "Lambung adalah organ pencernaan yang memiliki peran utama dalam pemecahan makanan secara mekanis dan kimiawi. Asam lambung dan enzim yang dihasilkan oleh lambung membantu dalam mencerna protein serta membunuh bakteri yang masuk bersama makanan. Lambung juga melakukan gerakan peristaltik untuk mencampur makanan dengan cairan pencernaan sebelum diteruskan ke usus halus untuk penyerapan nutrisi lebih lanjut.",
-    img: "foto_organ/lambung.jpg",
+    img: "foto_organ/LAMBUNG.jpg",
   },
   usus_halus: {
     text: "Usus halus adalah bagian utama dalam sistem pencernaan yang bertanggung jawab atas penyerapan nutrisi dari makanan yang telah dicerna. Organ ini terdiri dari tiga bagian utama, yaitu duodenum, jejunum, dan ileum. Di dalam usus halus, enzim dari pankreas dan empedu dari hati bekerja bersama untuk mencerna lemak, protein, dan karbohidrat. Nutrisi yang telah terurai akan diserap oleh vili usus ke dalam aliran darah.",
-    img: "foto_organ/usus halus.jpg",
+    img: "foto_organ/USUS HALUS.jpg",
   },
   usus_besar: {
     text: "Usus besar berfungsi untuk menyerap air dan elektrolit dari sisa makanan yang tidak tercerna serta membentuk dan menyimpan feses sebelum dikeluarkan melalui anus. Selain itu, usus besar mengandung bakteri baik yang membantu fermentasi sisa makanan serta produksi beberapa vitamin, seperti vitamin K dan B.",
-    img: "foto_organ/usus besar.jpg",
+    img: "foto_organ/USUS BESAR.jpg",
   },
   pankreas: {
     text: "Pankreas memiliki dua fungsi utama, yaitu sebagai bagian dari sistem pencernaan dan sistem endokrin. Sebagai organ pencernaan, pankreas menghasilkan enzim yang membantu pemecahan karbohidrat, protein, dan lemak di usus halus. Sebagai organ endokrin, pankreas menghasilkan hormon insulin dan glukagon yang berperan dalam mengatur kadar gula darah.",
-    img: "foto_organ/pankreas.jpg",
+    img: "foto_organ/PANKREAS.jpg",
   },
   kandung_kemih: {
     text: "Kandung kemih adalah organ yang berfungsi sebagai tempat penyimpanan urin sebelum dikeluarkan dari tubuh melalui uretra. Organ ini memiliki dinding yang dapat meregang agar dapat menampung urin dalam jumlah yang lebih banyak sebelum dikeluarkan melalui proses buang air kecil.",
-    img: "foto_organ/kantung kemih.jpg",
+    img: "foto_organ/KANTUNG KEMIH.jpg",
   },
   ovarium: {
     text: "Ovarium adalah organ reproduksi wanita yang berfungsi untuk menghasilkan sel telur serta hormon-hormon reproduksi seperti estrogen dan progesteron. Estrogen berperan dalam perkembangan karakteristik seksual sekunder, sedangkan progesteron penting dalam persiapan dan pemeliharaan kehamilan",
-    img: "foto_organ/ovarium.jpg",
+    img: "foto_organ/OVARIUM.jpg",
   },
   testis: {
     text: "Testis adalah organ reproduksi pria yang berfungsi menghasilkan sperma serta hormon testosteron. Testosteron berperan dalam perkembangan karakteristik seksual pria seperti pertumbuhan rambut, suara yang lebih berat, serta pembentukan otot.",
-    img: "foto_organ/testis.jpg",
+    img: "foto_organ/TESTIS.jpg",
   },
   tulang: {
     text: "Tulang memberikan struktur dan dukungan pada tubuh serta melindungi organ-organ vital. Tulang juga menjadi tempat produksi sel darah dalam sumsum tulang dan berperan sebagai penyimpanan mineral seperti kalsium dan fosfor.",
-    img: "foto_organ/tulang.jpg",
+    img: "foto_organ/TULANG.jpg",
   },
   otot: {
     text: "Otot memungkinkan pergerakan tubuh melalui kontraksi dan relaksasi. Selain itu, otot juga membantu menjaga postur tubuh serta mendukung fungsi organ dalam seperti pernapasan dan pencernaan.",
-    img: "foto_organ/otot.jpg",
+    img: "foto_organ/OTOT.jpg",
   },
   kulit: {
     text: "Kulit adalah organ terbesar dalam tubuh yang berfungsi sebagai lapisan pelindung terhadap bakteri, virus, dan zat berbahaya lainnya. Kulit juga berperan dalam mengatur suhu tubuh dan memberikan sensasi sentuhan.",
-    img: "foto_organ/kulit.jpg",
+    img: "foto_organ/KULIT.jpg",
   },
   mata: {
     text: "Mata adalah organ penglihatan yang menangkap cahaya dan mengubahnya menjadi sinyal saraf yang dikirim ke otak untuk diproses menjadi gambar.",
-    img: "foto_organ/mata.jpg",
+    img: "foto_organ/MATA.jpg",
   },
   telinga: {
     text: "Telinga adalah organ pendengaran yang terdiri dari tiga bagian utama: telinga luar, tengah, dan dalam. Telinga tidak hanya bertanggung jawab atas pendengaran tetapi juga keseimbangan tubuh. Bagian dalam telinga mengandung cairan dan struktur yang membantu mendeteksi posisi serta pergerakan kepala.",
-    img: "foto_organ/telinga.jpg",
+    img: "foto_organ/TELINGA.jpg",
   },
   hidung: {
     text: "Hidung merupakan organ pernapasan dan penciuman yang bertugas menyaring udara, melembapkan, serta mendeteksi bau melalui sel-sel reseptor di dalam rongga hidung.",
-    img: "foto_organ/hidung.jpg",
+    img: "foto_organ/HIDUNG.jpg",
   },
   lidah: {
     text: "Lidah memiliki peran dalam pengecapan rasa, membantu berbicara, dan menggerakkan makanan selama mengunyah dan menelan.",
-    img: "foto_organ/lidah.jpg",
+    img: "foto_organ/LIDAH.jpg",
   },
   kelenjar_tiroid: {
     text: "Kelenjar tiroid menghasilkan hormon yang mengatur metabolisme tubuh, pertumbuhan, dan perkembangan.",
-    img: "foto_organ/tiroid.jpg",
+    img: "foto_organ/TIROID.jpg",
   },
   kelenjarPituiteri: {
     text: "Kelenjar ini adalah kelenjar utama yang mengontrol banyak kelenjar lain dalam tubuh dengan melepaskan berbagai hormon.",
-    img: "foto_organ/pituiteri.jpg",
+    img: "foto_organ/PITUITERI.jpg",
   },
   limpa: {
     text: "Limpa berperan dalam menyaring darah dan membantu melawan infeksi dengan memproduksi sel darah putih.",
-    img: "foto_organ/limpa.jpg",
+    img: "foto_organ/LIMPA.jpg",
   },
   sumsum_tulang: {
     text: "Sumsum tulang adalah tempat produksi sel darah merah, sel darah putih, dan trombosit yang penting bagi sistem imun dan peredaran darah.",
-    img: "foto_organ/sum sum.jpg",
+    img: "foto_organ/SUM SUM.jpg",
   },
   kelenjar_getah_bening: {
     text: "Kelenjar getah bening membantu tubuh dalam melawan infeksi dengan menyaring patogen dan zat berbahaya dari aliran getah bening.",
-    img: "foto_organ/kelenjar.jpg",
+    img: "foto_organ/KELENJAR.jpg",
   },
   kerongkongan: {
     text: "Kerongkongan atau esofagus adalah saluran yang menghubungkan tenggorokan dengan lambung. Organ ini berperan dalam proses menelan, di mana makanan dan minuman didorong ke lambung melalui gerakan peristaltik, yaitu kontraksi otot yang bergelombang. Kerongkongan memiliki katup esofagus bawah yang mencegah asam lambung naik kembali ke tenggorokan.",
-    img: "foto_organ/krongkongan.jpg",
+    img: "foto_organ/KRONGKONGAN.jpg",
   },
   trakea: {
     text: "Trakea atau batang tenggorokan adalah saluran udara yang menghubungkan laring dengan bronkus. Organ ini memiliki cincin tulang rawan yang menjaga bentuknya agar tetap terbuka dan memungkinkan udara mengalir dengan lancar. Trakea juga dilapisi oleh sel-sel bersilia dan lendir yang berfungsi menyaring debu serta partikel asing sebelum udara masuk ke paru-paru.",
-    img: "foto_organ/trakea.jpg",
+    img: "foto_organ/TRAKEA.jpg",
   },
   bronkus: {
     text: "Bronkus adalah cabang dari trakea yang mengarah ke paru-paru kanan dan kiri. Organ ini berfungsi sebagai saluran utama yang membawa udara masuk dan keluar dari paru-paru. Bronkus bercabang lebih kecil menjadi bronkiolus sebelum mencapai alveolus, tempat pertukaran gas terjadi. Dinding bronkus dilapisi lendir dan silia yang membantu menyaring debu serta partikel asing dari udara yang dihirup.",
-    img: "foto_organ/bronkus.jpg",
+    img: "foto_organ/BRONKUS.jpg",
   },
   kelenjar_pituiteri: {
     text: "Kelenjar pituiteri adalah kelenjar utama yang mengontrol banyak kelenjar lain dalam tubuh dengan melepaskan berbagai hormon.",
-    img: "foto_organ/pituiteri.jpg",
+    img: "foto_organ/PITUITERI.jpg",
   },
 };
 
